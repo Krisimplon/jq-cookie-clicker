@@ -13,3 +13,5 @@ N'oubliez pas de lancer `caddy` dans le dossier.
 - Tous les 20 click, demandez à l'utilisateur de trouver une activité plus productive via un `alert`
 - Un message différent tous les 20 clicks
 - Un message aléatoire parmi une liste de messages
+
+https://krisimplon.github.io/jq-cookie-clicker/
